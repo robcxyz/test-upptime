@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 161,
-    "timeDay": 123,
-    "timeWeek": 161,
-    "timeMonth": 161,
-    "timeYear": 161,
+    "time": 153,
+    "timeDay": 65,
+    "timeWeek": 157,
+    "timeMonth": 153,
+    "timeYear": 153,
     "dailyMinutesDown": {}
   },
   {
@@ -22,18 +22,20 @@
     "url": "https://en.wikipedia.org",
     "icon": "https://favicons.githubusercontent.com/en.wikipedia.org",
     "slug": "wikipedia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 266,
-    "timeDay": 236,
-    "timeWeek": 288,
-    "timeMonth": 266,
-    "timeYear": 266,
-    "dailyMinutesDown": {}
+    "time": 262,
+    "timeDay": 225,
+    "timeWeek": 281,
+    "timeMonth": 262,
+    "timeYear": 262,
+    "dailyMinutesDown": {
+      "2021-10-29": 0
+    }
   },
   {
     "name": "Hacker News",
@@ -46,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 401,
-    "timeDay": 326,
-    "timeWeek": 359,
-    "timeMonth": 401,
-    "timeYear": 401,
+    "time": 398,
+    "timeDay": 363,
+    "timeWeek": 352,
+    "timeMonth": 398,
+    "timeYear": 398,
     "dailyMinutesDown": {}
   },
   {
